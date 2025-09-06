@@ -25,7 +25,7 @@ htatmute_db_user
 fn6lQFpWFHFdLNbx
 
 connection string
-mongodb+srv://htatmute_db_user:<db_password>@cluster0.hrdzubg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://htatmute_db_user:fn6lQFpWFHFdLNbx@cluster0.hrdzubg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 -------------------------------------- logging, exception and notebooks --------------------------------------
 14. Write the logger file and test it on demo.py
